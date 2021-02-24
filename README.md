@@ -4,6 +4,8 @@ Internal overview of quantum software frameworks. To create a new framework entr
 
 ## Framworks
 
+This is the initial set of frameworks available from the "create file" modal. 
+
 - [QASM](qasm.md)
 - [Forest](forest.md)
 - [Penny Lane](penny-lane.md)
