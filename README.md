@@ -2,6 +2,7 @@
 
 Overview of quantum software frameworks
 
+- [QASM](qasm.md)
 - [Forest](forest.md)
 - [Penny Lane](penny-lane.md)
 - [Cirq](cirq.md)
