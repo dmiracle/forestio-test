@@ -1,5 +1,7 @@
 # Name
-[link to project page]()
+[PennyLane](https://pennylane.ai/)
+
+https://github.com/PennyLaneAI/pennylane
 
 Short Description
 

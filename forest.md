@@ -1,7 +1,19 @@
 # Name
-[link to project page]()
+[Rigetti](https://www.rigetti.com/)
 
-Short Description
+https://pyquil-docs.rigetti.com/en/stable/
+
+https://qcs.rigetti.com/sdk-downloads
+
+https://github.com/rigetti
+
+
+SDK for Rigetti quantum computing
+
+- QUIL
+- PyQuil
+- Quilc
+- QVM
 
 ## Summary
 Paragraph description of project.
@@ -10,3 +22,5 @@ Paragraph description of project.
 
 
 ## External Links
+
+https://arxiv.org/abs/2001.04449

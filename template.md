@@ -10,10 +10,10 @@ Short Description
 ## Summary
 Paragraph description of project.
 
-## Strangeworks Links
+## Strangeworks links
 
 
-## External Links
+## External links
 
 
-## Code Samples
+## Code samples

@@ -1,5 +1,5 @@
-# Name
-[link to project page]()
+# Amazon braket
+[Amazon braket](https://aws.amazon.com/braket/)
 
 Short Description
 
