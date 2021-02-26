@@ -8,7 +8,9 @@ Fully featured IBM behemoth
 
 ### From the qiskit page
 Qiskit [quiss-kit] is an open source SDK for working with quantum computers at the level of pulses, circuits and application modules.
+
 ## Summary
+![](imgs/avatar.png)
 Paragraph description of project.
 
 ## Strangeworks Links
