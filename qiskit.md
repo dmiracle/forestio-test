@@ -21,7 +21,7 @@ Qiskit is the big-boy in the quantum computing space. The framework covers a bro
 
 
 ### Qiskit elements
-![](imgs/avatar.png)
+![](imgs/avatar.png =640x)
 ### Terra
 > Terra provides the foundations for Qiskit. It allows the user to write quantum circuits easily, and takes care of the constraints of real hardware. 
 

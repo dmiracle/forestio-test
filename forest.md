@@ -1,4 +1,4 @@
-# Name
+# Forest SDK
 [Rigetti](https://www.rigetti.com/)
 
 https://pyquil-docs.rigetti.com/en/stable/
