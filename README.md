@@ -6,13 +6,13 @@ Internal overview of quantum software frameworks. To create a new framework entr
 
 This is the initial set of frameworks available from the "create file" modal. 
 
-- [QASM](qasm.md)
+- [OpenQASM](qasm.md)
+- [Qiskit](qiskit.md)
 - [Forest](forest.md)
 - [Penny Lane](penny-lane.md)
 - [Cirq](cirq.md)
 - [Q#](qsharp.md)
 - [Blueqat](blueqat.md)
-- [Qiskit](qiskit.md)
 - [Ocean](ocean.md)
 - [Braket](braket.md)
 - [ProjectQ](projectq.md)
