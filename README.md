@@ -16,3 +16,12 @@ This is the initial set of frameworks available from the "create file" modal.
 - [Ocean](ocean.md)
 - [Braket](braket.md)
 - [ProjectQ](projectq.md)
+
+## Hugo
+
+1. [Install hugo](https://gohugo.io/getting-started/)
+1. serve locally with hugo
+
+```
+hugo server -D
+```
