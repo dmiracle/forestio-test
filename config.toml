@@ -1,4 +1,4 @@
-baseURL = "http://strangewor.github.io/q-software-map/"
+baseURL = "http://strangeworks.github.io/q-software-map/"
 languageCode = "en-us"
 title = "Strangeworks"
 theme = "ananke"
