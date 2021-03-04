@@ -8,7 +8,7 @@ Fully featured IBM behemoth, tools for q-bending.
 
 > Qiskit [quiss-kit] is an open source SDK for working with quantum computers at the level of pulses, circuits and application modules.
 
-
+<!--more-->
 ## Summary
 - access to circuits
 - hardware access

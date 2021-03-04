@@ -5,7 +5,7 @@ draft: false
 ---
 
 **Short description of hardware**
-
+<!--more-->
 ## Tech
 
 

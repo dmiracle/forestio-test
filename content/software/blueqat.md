@@ -4,11 +4,9 @@ draft: false
 date: 2021-03-03
 ---
 
-[Blueqat](https://blueqat.com/)
 
-[<img alt="GitHub Logomark" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32">](https://github.com/Blueqat)
 Short Description
-
+<!--more-->
 ## Summary
 Paragraph description of project.
 
@@ -16,3 +14,6 @@ Paragraph description of project.
 
 
 ## External Links
+[Blueqat](https://blueqat.com/)
+
+[<img alt="GitHub Logomark" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32">](https://github.com/Blueqat)

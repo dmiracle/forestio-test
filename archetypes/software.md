@@ -5,7 +5,7 @@ draft: true
 ---
 
 **Short one-liner pulled from project page**
-
+<!--more-->
 ## Summary
 **Paragraph description of project.**
 

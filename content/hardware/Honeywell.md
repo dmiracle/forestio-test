@@ -5,7 +5,7 @@ draft: false
 ---
 
 Honeywell’s trapped-ion quantum computers, along with their strengths in science, engineering and research, allow them to offer their partners and customers a competitive edge. Honeywell access through our platform includes multiple types of hardware offerings and you can also take advantage of their consulting services when linked with hardware access.
-
+<!--more-->
 ## Tech
 
 

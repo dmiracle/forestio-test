@@ -4,12 +4,8 @@ draft: false
 date: 2021-03-03
 ---
 
-[PennyLane](https://pennylane.ai/)
-
-https://github.com/PennyLaneAI/pennylane
-
 Short Description
-
+<!--more-->
 ## Summary
 Paragraph description of project.
 
@@ -17,3 +13,6 @@ Paragraph description of project.
 
 
 ## External Links
+[PennyLane](https://pennylane.ai/)
+
+https://github.com/PennyLaneAI/pennylane

@@ -4,14 +4,8 @@ draft: false
 date: 2021-03-03
 ---
 
-[Project Q](https://projectq.ch/)
-
-https://github.com/ProjectQ-Framework/ProjectQ
-
-https://arxiv.org/abs/1612.08091
-
 Short Description
-
+<!--more-->
 ## Summary
 Paragraph description of project.
 
@@ -19,3 +13,8 @@ Paragraph description of project.
 
 
 ## External Links
+[Project Q](https://projectq.ch/)
+
+https://github.com/ProjectQ-Framework/ProjectQ
+
+https://arxiv.org/abs/1612.08091

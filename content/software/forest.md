@@ -4,13 +4,6 @@ draft: false
 date: 2021-03-03
 ---
 
-[Rigetti](https://www.rigetti.com/)
-
-https://pyquil-docs.rigetti.com/en/stable/
-
-https://qcs.rigetti.com/sdk-downloads
-
-https://github.com/rigetti
 
 
 SDK for Rigetti quantum computing
@@ -19,7 +12,7 @@ SDK for Rigetti quantum computing
 - PyQuil
 - Quilc
 - QVM
-
+<!--more-->
 ## Summary
 Paragraph description of project.
 
@@ -27,5 +20,12 @@ Paragraph description of project.
 
 
 ## External Links
+[Rigetti](https://www.rigetti.com/)
+
+https://pyquil-docs.rigetti.com/en/stable/
+
+https://qcs.rigetti.com/sdk-downloads
+
+https://github.com/rigetti
 
 https://arxiv.org/abs/2001.04449
