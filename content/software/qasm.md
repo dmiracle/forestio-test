@@ -5,7 +5,7 @@ date: 2021-03-03
 ---
 
 OpenQASM is a language that allows quantum developers to represent quantum circuits in a programmatic way developed for IBM quantum experience. There is a direct equivalence between a circuit drawing and its QASM representation. The language is specified in the [OpenQASM paper](https://arxiv.org/abs/1707.03429) and is a quick way to get started developing quantum circuits.
-
+<!--more-->
 ## Summary
 
 The goal of QASM is to "enable experiments with small depth quantum circuits." QASM is an intermediate representation used to describe simple quantum circuits as basic code blocks -- straight line code segment with no branches. QASM can be used to describe a circuit and generate a diagram, or QASM can be written from a diagram. The purpose of a simple language that has a one to one correspondence with quantum circuits is to create human readable quantum code that can be used standalone, or as part of a more fully featured framework. Qiskit uses QASM as an intermediate representation, a kind of assembly language for quantum circuits. In fact you can easily import QASM code directly into qiskit and circuits created in qiskit are rendered into QASM for simulation or execution on quantum hardware. 
