@@ -1,10 +1,10 @@
 ---
-title: "Name"
-draft: true
+title: "AQT"
+draft: false
 date: 2021-03-03
 ---
 
-**Short description of hardware**
+Trapped ion quantum devices pioneered and lead quantum information processing: from performance and scalability to wide-range applicability.
 
 ## Tech
 

@@ -1,0 +1,4 @@
+.vscode
+
+# dirty local shell utils
+_*.sh

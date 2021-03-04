@@ -1,6 +1,6 @@
 baseURL = "http://strangeworks.github.io/q-software-map/"
 languageCode = "en-us"
-title = "Strangeworks"
+title = "Provider Maps"
 theme = "ananke"
 pluralizelisttitles = false
 

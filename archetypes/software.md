@@ -1,7 +1,7 @@
 ---
-title: "Name"
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: true
-date: 2021-03-03
 ---
 
 **Short one-liner pulled from project page**
