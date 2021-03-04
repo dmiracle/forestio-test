@@ -1,7 +1,18 @@
 ---
-title: "Aqt"
-date: 2021-03-04T11:32:55-06:00
+title: "Name"
 draft: true
+date: 2021-03-03
 ---
 
+**Short description of hardware**
 
+## Tech
+
+
+## Architecture
+
+
+## Access
+
+
+## Notes
