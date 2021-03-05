@@ -1,17 +1,17 @@
 ---
-title: "Q#"
-draft: false
+title: Q#
 date: 2021-03-03
+
 ---
+This is the Quantum project from Microsoft
 
+ <!--more-->
 
-Short Description
-<!--more-->
 ## Summary
+
 Paragraph description of project.
 
 ## Strangeworks Links
-
 
 ## External Links
 
