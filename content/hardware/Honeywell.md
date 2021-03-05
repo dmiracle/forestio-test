@@ -8,6 +8,7 @@ Honeywell’s trapped-ion quantum computers, along with their strengths in scien
 <!--more-->
 ## Tech
 
+Honeywell uses cold ions. 
 
 ## Architecture
 
