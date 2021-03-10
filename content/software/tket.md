@@ -1,11 +1,11 @@
 ---
-title: "Dylans Special Q Sauce"
-date: 2021-03-04T14:04:07-06:00
+title: "Tket"
+date: 2021-03-09T17:14:35-06:00
 draft: false
 ---
 
 **Short one-liner pulled from project page**
-
+<!--more-->
 ## Summary
 **Paragraph description of project.**
 

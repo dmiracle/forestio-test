@@ -1,18 +1,19 @@
-baseURL = "http://dmiracle.github.io/forestio-test/"
+baseURL = "http://strangeworks.github.io/q-software-map/"
 languageCode = "en-us"
 title = "Provider Map"
+copyright = "Strangeworks"
 theme = "ananke"
 pluralizelisttitles = false
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 9 
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
   favicon = "/imgs/favicon-32x32.png"
-  site_logo = ""
+  site_logo = "imgs/sw_horz_reverse_rgb.png"
   description = "Quantum hardware and software page"
   facebook = ""
   twitter = ""

@@ -1,2 +1,10 @@
-# Provider Map
-Internal overview of quantum software frameworks and hardware providers. To create a new framework entry create either create a new software page with `hugo new software/<Software-Name>.md` or `hugo new hardware/<Hardware-Name>.md`. Check back as page is in active development.
+# Creating pages
+Internal overview of quantum software frameworks and hardware providers. To create a new framework entry  create a new software page with 
+
+```bash
+$ hugo new software/my-software.md
+
+$ hugo new hardware/my-hardware.md
+```
+Edit the page markdown directly or not at all.
+Check back as page is in active development.

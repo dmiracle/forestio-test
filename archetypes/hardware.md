@@ -4,15 +4,12 @@ date: {{ .Date }}
 draft: false
 ---
 
-**Short description of hardware**
+Short description of hardware
+
+**Tech** |   
+**Architecture** |   
+**Access** | 
+
 <!--more-->
-## Tech
-
-
-## Architecture
-
-
-## Access
-
 
 ## Notes

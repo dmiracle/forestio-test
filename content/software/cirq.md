@@ -1,12 +1,11 @@
 ---
 title: "Cirq"
 draft: false
-date: 2021-03-03
+date: 2021-03-08
 ---
-# Name
-
-
-Short Description
+> An open source framework for programming quantum computers
+>
+> Cirq is a Python software library for writing, manipulating, and optimizing quantum circuits, and then running them on quantum computers and quantum simulators. Cirq provides useful abstractions for dealing with today’s noisy intermediate-scale quantum computers, where details of the hardware are vital to achieving state-of-the-art results.n
 <!--more-->
 ## Summary
 Paragraph description of project.

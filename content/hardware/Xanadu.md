@@ -5,14 +5,10 @@ draft: false
 ---
 
 Xanadu's mission is to build continuos variable quantum computers that are useful and available to people everywhere.
+
+**Tech** | Photonic  
+**Architecture** | CV    
+**Access** | 
+
 <!--more-->
-## Tech
-
-
-## Architecture
-
-
-## Access
-
-
 ## Notes

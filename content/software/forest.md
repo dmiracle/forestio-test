@@ -1,17 +1,19 @@
 ---
 title: "Forest SDK"
 draft: false
-date: 2021-03-03
+date: 2021-03-08
 ---
 
 
 
-SDK for Rigetti quantum computing
+Forest is an SDK for Rigetti quantum computing that includes 
 
-- QUIL
-- PyQuil
-- Quilc
-- QVM
+- QUIL -- 
+- PyQuil -- python library
+- Quilc -- compiler
+- QVM -- Quantum virtual machine, simulator
+
+
 <!--more-->
 ## Summary
 Paragraph description of project.

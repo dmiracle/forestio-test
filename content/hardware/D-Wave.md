@@ -5,14 +5,10 @@ draft: false
 ---
 
 D-Wave’s leverages quantum annealing to accelerate and enable new methods for solving discrete optimization, sampling, material science, and machine learning problems.
+
+**Tech** | SQuiD   
+**Architecture** | Specialist   
+**Access** | Cloud / Box / AWS Braket 
+
 <!--more-->
-## Tech
-
-
-## Architecture
-
-
-## Access
-
-
 ## Notes

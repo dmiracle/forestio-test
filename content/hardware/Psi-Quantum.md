@@ -5,14 +5,10 @@ draft: false
 ---
 
 PsiQuantum is singularly focused on building a quantum computer with one million silicon photonic qubits produced in a conventional semiconductor fab. 
+
+**Tech** | Photonic   
+**Architecture** | Measurement   
+**Access** | Not Available 
+
 <!--more-->
-## Tech
-
-
-## Architecture
-
-
-## Access
-
-
 ## Notes

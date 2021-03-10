@@ -1,10 +1,10 @@
 ---
 title: "D-Wave Ocean"
 draft: false
-date: 2021-03-03
+date: 2021-03-08
 ---
 
-Short Description
+> Ocean software is a suite of tools D-Wave Systems provides on the D-Wave GitHub repository for solving hard problems with quantum computers.
 <!--more-->
 ## Summary
 Paragraph description of project.

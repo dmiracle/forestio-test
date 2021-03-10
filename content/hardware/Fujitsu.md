@@ -5,14 +5,11 @@ draft: false
 ---
 
 Fujitsu's Digital Annealer provides a digital circuit nspired by quantum phenomena, capable of rapidly solving complex combinatorial optimization problems without the added complications associated with quantum computing methods.
+
+**Tech** | FPGA  
+**Architecture** | Inspired   
+**Access** | 
+
 <!--more-->
-## Tech
-
-
-## Architecture
-
-
-## Access
-
 
 ## Notes
