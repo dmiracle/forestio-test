@@ -1,6 +1,6 @@
 baseURL = "https://dmiracle.github.io/forestio-test/"
 languageCode = "en-us"
-title = "Provider Map"
+title = "Forestry Test"
 copyright = "Strangeworks"
 theme = "ananke"
 pluralizelisttitles = false
