@@ -1,8 +1,9 @@
 ---
-title: "Q#"
-draft: false
+title: Q#
 date: 2021-03-03
+
 ---
+This is the Quantum project from Microsoft
 
 > Q# is Microsoft’s open-source programming language for developing and running quantum algorithms. It’s part of the Quantum Development Kit (QDK), which includes Q# libraries, quantum simulators, extensions for other programming environments, and API documentation. In addition to the Standard Q# library, the QDK includes Chemistry, Machine Learning, and Numeric libraries.
 >
@@ -10,10 +11,10 @@ date: 2021-03-03
 
 <!--more-->
 ## Summary
+
 Paragraph description of project.
 
 ## Strangeworks Links
-
 
 ## External Links
 
