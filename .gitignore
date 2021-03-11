@@ -2,3 +2,4 @@
 
 # dirty local shell utils
 _*.sh
+.DS_Store
